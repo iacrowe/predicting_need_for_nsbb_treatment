@@ -7,6 +7,6 @@ This repo contains a synthetic dataset, created to allow reproduction of the ana
 
 The following scripts are intended to be run sequentially.  
 ## 00_prepare_data
-Reads in data and does multiple imputation of missing data.  Provides tabulated output summarising one imputed dataset.
+Reads in data and does multiple imputation of missing data.  Provides tabulated output summarising one imputed dataset that forms the basis for Table 1 in the manuscript.
 
 ## 01_
